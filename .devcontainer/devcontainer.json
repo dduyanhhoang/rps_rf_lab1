@@ -1,0 +1,9 @@
+{
+    "name": "Rust Project",
+    "image": "rust:latest",
+    "settings": {},
+    "extensions": [
+        "rust-lang.rust-analyzer",
+        "GitHub.copilot"
+    ]
+  }
